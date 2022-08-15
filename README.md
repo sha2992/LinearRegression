@@ -1,2 +1,2 @@
 # LinearRegression
-Basic linear Regression modeling with a simple tiny
+Basic linear Regression modeling with a simple tiny data
